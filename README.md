@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @anaspiringquant
+- 👋 Hi, I’m @wolfofquantst
 - 👀 I’m interested in quantitative developer/data scientist
 - 🌱 I’m currently learning python/SQL
 - 💞️ I’m looking to collaborate on projects
